@@ -1,0 +1,15 @@
+* {
+    text-align: center;
+}
+
+img {
+    height: 800;
+    width: auto;
+}
+
+a {
+    font-size: large;
+    font-weight: bold;
+    position: absolute;
+    top: 50px;
+}
