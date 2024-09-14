@@ -1,5 +1,6 @@
 * {
     text-align: center;
+    margin: 20px;
 }
 
 img {
@@ -7,9 +8,9 @@ img {
     width: auto;
 }
 
+
 a {
     font-size: large;
     font-weight: bold;
-    position: absolute;
-    top: 50px;
+    text-align: center;
 }
